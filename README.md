@@ -9,7 +9,8 @@ Run this image through the code above.
 Upload the link to GitHub implementation of this
 Upload the annotated image by YOLO.
 
-Assignment B
+# Assignment B
+
 Open In Colab
 
 Objective
